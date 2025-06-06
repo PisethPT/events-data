@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "Arsenal",
+    "stadium": "Emirates Stadium",
+    "city": "London",
+    "founded": 1886,
+    "manager": "Mikel Arteta",
+    "logo": "team_logos/ars.png"
+  },
+  {
+    "id": 2,
+    "name": "Aston Villa",
+    "stadium": "Villa Park",
+    "city": "Birmingham",
+    "founded": 1874,
+    "manager": "Unai Emery",
+    "logo": "team_logos/avl.png"
+  },
+  {
+    "id": 3,
+    "name": "Bournemouth",
+    "stadium": "Vitality Stadium",
+    "city": "Bournemouth",
+    "founded": 1899,
+    "manager": "Andoni Iraola",
+    "logo": "team_logos/bou.png"
+  },
+  {
+    "id": 4,
+    "name": "Brentford",
+    "stadium": "Gtech Community Stadium",
+    "city": "London",
+    "founded": 1889,
+    "manager": "Thomas Frank",
+    "logo": "team_logos/bre.png"
+  },
+  {
+    "id": 5,
+    "name": "Brighton & Hove Albion",
+    "stadium": "Amex Stadium",
+    "city": "Brighton",
+    "founded": 1901,
+    "manager": "Fabian Hürzeler",
+    "logo": "team_logos/bhr.png"
+  },
+  {
+    "id": 6,
+    "name": "Chelsea",
+    "stadium": "Stamford Bridge",
+    "city": "London",
+    "founded": 1905,
+    "manager": "Enzo Maresca",
+    "logo": "team_logos/che.png"
+  },
+  {
+    "id": 7,
+    "name": "Crystal Palace",
+    "stadium": "Selhurst Park",
+    "city": "London",
+    "founded": 1905,
+    "manager": "Oliver Glasner",
+    "logo": "team_logos/cry.png"
+  },
+  {
+    "id": 8,
+    "name": "Everton",
+    "stadium": "Goodison Park",
+    "city": "Liverpool",
+    "founded": 1878,
+    "manager": "Sean Dyche",
+    "logo": "team_logos/eve.png"
+  },
+  {
+    "id": 9,
+    "name": "Fulham",
+    "stadium": "Craven Cottage",
+    "city": "London",
+    "founded": 1879,
+    "manager": "Marco Silva",
+    "logo": "team_logos/ful.png"
+  },
+  {
+    "id": 10,
+    "name": "Ipswich Town",
+    "stadium": "Portman Road",
+    "city": "Ipswich",
+    "founded": 1878,
+    "manager": "Kieran McKenna",
+    "logo": "team_logos/ips.png"
+  },
+  {
+    "id": 11,
+    "name": "Leicester City",
+    "stadium": "King Power Stadium",
+    "city": "Leicester",
+    "founded": 1884,
+    "manager": "Steve Cooper",
+    "logo": "team_logos/lei.png"
+  },
+  {
+    "id": 12,
+    "name": "Liverpool",
+    "stadium": "Anfield",
+    "city": "Liverpool",
+    "founded": 1892,
+    "manager": "Arne Slot",
+    "logo": "team_logos/liv.png"
+  },
+  {
+    "id": 13,
+    "name": "Southampton",
+    "stadium": "St. Mary's Stadium",
+    "city": "Southampton",
+    "founded": 1885,
+    "manager": "Will Stil",
+    "logo": "team_logos/sou.png"
+  },
+  {
+    "id": 14,
+    "name": "Manchester City",
+    "stadium": "Etihad Stadium",
+    "city": "Manchester",
+    "founded": 1880,
+    "manager": "Pep Guardiola",
+    "logo": "team_logos/mci.png"
+  },
+  {
+    "id": 15,
+    "name": "Manchester United",
+    "stadium": "Old Trafford",
+    "city": "Manchester",
+    "founded": 1878,
+    "manager": "Erik ten Hag",
+    "logo": "team_logos/mun.png"
+  },
+  {
+    "id": 16,
+    "name": "Newcastle United",
+    "stadium": "St James' Park",
+    "city": "Newcastle upon Tyne",
+    "founded": 1892,
+    "manager": "Eddie Howe",
+    "logo": "team_logos/new.png"
+  },
+  {
+    "id": 17,
+    "name": "Nottingham Forest",
+    "stadium": "City Ground",
+    "city": "Nottingham",
+    "founded": 1865,
+    "manager": "Nuno Espírito Santo",
+    "logo": "team_logos/nfo.png"
+  },
+  {
+    "id": 18,
+    "name": "Wolverhampton Wanderers",
+    "stadium": "Molineux Stadium",
+    "city": "Wolverhampton",
+    "founded": 1877,
+    "manager": "Vítor Pereira",
+    "logo": "team_logos/wol.png"
+  },
+  {
+    "id": 19,
+    "name": "Tottenham Hotspur",
+    "stadium": "Tottenham Hotspur Stadium",
+    "city": "London",
+    "founded": 1882,
+    "manager": "Ange Postecoglou",
+    "logo": "team_logos/tot.png"
+  },
+  {
+    "id": 20,
+    "name": "West Ham United",
+    "stadium": "London Stadium",
+    "city": "London",
+    "founded": 1895,
+    "manager": "Julen Lopetegui",
+    "logo": "team_logos/whu.png"
+  }
+]
