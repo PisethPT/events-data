@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "name": "Margherita Pizza",
+    "category": "Italian",
+    "calories": 270,
+    "ingredients": ["Tomato", "Mozzarella", "Basil", "Olive Oil"],
+    "price": 9.99
+  },
+  {
+    "id": 2,
+    "name": "Chicken Biryani",
+    "category": "Indian",
+    "calories": 480,
+    "ingredients": ["Chicken", "Rice", "Yogurt", "Spices"],
+    "price": 12.5
+  },
+  {
+    "id": 3,
+    "name": "Caesar Salad",
+    "category": "Salad",
+    "calories": 180,
+    "ingredients": ["Romaine Lettuce", "Parmesan", "Croutons", "Caesar Dressing"],
+    "price": 7.25
+  },
+  {
+    "id": 4,
+    "name": "Sushi Roll",
+    "category": "Japanese",
+    "calories": 200,
+    "ingredients": ["Rice", "Seaweed", "Salmon", "Avocado"],
+    "price": 11.0
+  },
+  {
+    "id": 5,
+    "name": "Beef Burger",
+    "category": "American",
+    "calories": 550,
+    "ingredients": ["Beef Patty", "Bun", "Lettuce", "Tomato", "Cheese"],
+    "price": 8.75
+  },
+  {
+    "id": 6,
+    "name": "Pad Thai",
+    "category": "Thai",
+    "calories": 320,
+    "ingredients": ["Rice Noodles", "Shrimp", "Peanuts", "Bean Sprouts", "Tamarind Sauce"],
+    "price": 10.0
+  },
+  {
+    "id": 7,
+    "name": "Tacos",
+    "category": "Mexican",
+    "calories": 290,
+    "ingredients": ["Tortilla", "Beef", "Cheese", "Lettuce", "Salsa"],
+    "price": 6.5
+  },
+  {
+    "id": 8,
+    "name": "Pho",
+    "category": "Vietnamese",
+    "calories": 350,
+    "ingredients": ["Beef Broth", "Rice Noodles", "Beef", "Herbs"],
+    "price": 9.5
+  },
+  {
+    "id": 9,
+    "name": "Falafel Wrap",
+    "category": "Middle Eastern",
+    "calories": 300,
+    "ingredients": ["Falafel", "Pita", "Lettuce", "Tomato", "Tahini Sauce"],
+    "price": 7.0
+  },
+  {
+    "id": 10,
+    "name": "Tom Yum Soup",
+    "category": "Thai",
+    "calories": 220,
+    "ingredients": ["Shrimp", "Mushroom", "Lemongrass", "Chili", "Lime"],
+    "price": 8.0
+  },
+  {
+    "id": 11,
+    "name": "Spaghetti Carbonara",
+    "category": "Italian",
+    "calories": 400,
+    "ingredients": ["Spaghetti", "Egg", "Parmesan", "Pancetta"],
+    "price": 11.25
+  },
+  {
+    "id": 12,
+    "name": "Butter Chicken",
+    "category": "Indian",
+    "calories": 460,
+    "ingredients": ["Chicken", "Butter", "Tomato", "Cream", "Spices"],
+    "price": 13.0
+  },
+  {
+    "id": 13,
+    "name": "Greek Salad",
+    "category": "Salad",
+    "calories": 160,
+    "ingredients": ["Cucumber", "Tomato", "Feta", "Olives", "Onion"],
+    "price": 6.75
+  },
+  {
+    "id": 14,
+    "name": "Ramen",
+    "category": "Japanese",
+    "calories": 420,
+    "ingredients": ["Noodles", "Broth", "Pork", "Egg", "Scallions"],
+    "price": 10.5
+  },
+  {
+    "id": 15,
+    "name": "Shawarma Plate",
+    "category": "Middle Eastern",
+    "calories": 510,
+    "ingredients": ["Chicken", "Rice", "Salad", "Garlic Sauce"],
+    "price": 11.75
+  },
+  {
+    "id": 16,
+    "name": "Kimchi Fried Rice",
+    "category": "Korean",
+    "calories": 380,
+    "ingredients": ["Rice", "Kimchi", "Egg", "Scallions"],
+    "price": 9.0
+  },
+  {
+    "id": 17,
+    "name": "Fish and Chips",
+    "category": "British",
+    "calories": 600,
+    "ingredients": ["Fish Fillet", "Batter", "Potato", "Tartar Sauce"],
+    "price": 10.99
+  },
+  {
+    "id": 18,
+    "name": "Veggie Burrito",
+    "category": "Mexican",
+    "calories": 330,
+    "ingredients": ["Tortilla", "Beans", "Rice", "Veggies", "Guacamole"],
+    "price": 8.25
+  },
+  {
+    "id": 19,
+    "name": "Peking Duck",
+    "category": "Chinese",
+    "calories": 520,
+    "ingredients": ["Duck", "Hoisin Sauce", "Cucumber", "Pancakes"],
+    "price": 14.5
+  },
+  {
+    "id": 20,
+    "name": "Mac and Cheese",
+    "category": "American",
+    "calories": 440,
+    "ingredients": ["Macaroni", "Cheddar", "Milk", "Butter"],
+    "price": 7.75
+  }
+]
